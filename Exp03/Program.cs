@@ -1,5 +1,5 @@
 ﻿Console.WriteLine("Введите число: ");
-int number = 8;
+int number = 3;
 if (1 <= number && number <= 7)
 {
     if (number > 5)
@@ -11,7 +11,4 @@ if (1 <= number && number <= 7)
         Console.Write("Рабочий день");
     }
 }
-else
-{
-    Console.Write("К сожалению в календаре нет заданного дня");
-}
+
